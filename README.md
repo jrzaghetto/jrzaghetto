@@ -9,3 +9,5 @@ I'm Marcos Zaghetto, I'm a Full Stack developer student 👨‍💻 who is passi
 - 🧑‍💼  Want to know more about me? Feel free to ask me !!!
 
 "Your time is limited, so don’t waste it living someone else’s life." Jobs
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrzaghetto&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
